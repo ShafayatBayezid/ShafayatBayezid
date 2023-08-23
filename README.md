@@ -6,11 +6,11 @@
 🎤 Like to gain and share my knowledge </p> 
 
 
-<!-- <p align="left"> <a href="https://twitter.com/ShafayatBayezid" target="blank"><img src="https://img.shields.io/twitter/follow/ShafayatBayezid?logo=twitter&style=for-the-badge" alt="ShafayatBayezid" /></a> </p> -->
+<p align="left"> <a href="https://twitter.com/ShafayatBayezid" target="blank"><img src="https://img.shields.io/twitter/follow/ShafayatBayezid?logo=twitter&style=for-the-badge" alt="ShafayatBayezid" /></a> </p>
 
 ## 🚀 About Me
 
-I have a strong understanding of HTML, CSS, JavaScript, WordPress and I am expanding my expertise in PHP Laravel to contribute to cutting-edge web application development. I strive to collaborate effectively with cross-functional teams to deliver high-quality products that meet business objectives and exceed user expectations.
+I have a strong understanding of HTML, CSS, JavaScript, PHP (WordPress) and I am expanding my expertise in PHP [Laravel] to contribute to cutting-edge web application development. I strive to collaborate effectively with cross-functional teams to deliver high-quality products that meet business objectives and exceed user expectations.
  
 
 ## 👨‍💻 Skills & Experiance: 

@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I have a strong understanding of HTML, CSS, JavaScript, PHP (WordPress) and I am expanding my expertise in PHP [Laravel] to contribute to cutting-edge web application development. I strive to collaborate effectively with cross-functional teams to deliver high-quality products that meet business objectives and exceed user expectations.
+I have a strong understanding of HTML, CSS, JavaScript, PHP (WordPress) and I am expanding my expertise in PHP Laravel to contribute to cutting-edge web application development. I strive to collaborate effectively with cross-functional teams to deliver high-quality products that meet business objectives and exceed user expectations.
  
 
 ## 👨‍💻 Skills & Experiance: 

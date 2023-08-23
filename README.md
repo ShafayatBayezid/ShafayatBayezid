@@ -29,4 +29,4 @@ I have a strong understanding of HTML, CSS, JavaScript, WordPress and I am expan
 
 
 ## 📧 Contact Information
-✅  ► shafayat.g.b@gmail.com
+✅  ► shafayat.h.b@gmail.com

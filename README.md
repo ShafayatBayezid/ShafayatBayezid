@@ -15,11 +15,11 @@ I have a strong understanding of HTML, CSS, JavaScript, PHP (WordPress) and I am
 
 ## 👨‍💻 Skills & Experiance: 
 ✅ PHP Laravel<br> 
-✅ WordPress | Elementor<br> 
+✅ WordPress | WooCommerce | Elementor | ACF<br> 
 ✅ JavaScript <br>
 ✅ HTML5 / CSS3 / SASS / Bootstrap <br>
-✅ Photoshop / Illustrator / Figma / XD<br>
-✅ Slack / ClickUP / Postman <br>
+✅ Photoshop / Illustrator / Figma / XD / Canva<br>
+✅ Slack / ClickUP / Nifty / Postman <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShafayatBayezid&layout=compact)
 
